@@ -76,7 +76,7 @@ So the goal here is to break the problem down into coherent subparts and organiz
 
 This is the number one way to waste time and derail discussions. It is extraordinarily tempting to do, even if you know it will hurt the discussion. The problem is that it is also important to discuss.
 
-If you see someone talking about this in a discussion *not* about syntax, do not engage. Sometimes to keep a discussion on track is to pretend parts of it did not happen. This way ideas can be shared without side-tracking everything.
+If you see someone talking about this in a discussion *not* about syntax, do not engage. Sometimes to keep a discussion on track you must pretend parts of it did not happen. This way ideas can be shared without side-tracking everything.
 
 If you *need* to discuss syntax directly, do it in a separate issue and in an evidence based way:
 
