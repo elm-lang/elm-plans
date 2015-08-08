@@ -82,8 +82,7 @@ If you *need* to discuss syntax directly, do it in a separate issue and in an ev
 
   * **Opinions do not matter** &mdash; No one's opinion matters because everyone participating in these discussions is atypical by virtue of being here. What you think does not represent the present and future users of this language, so don't put too much weight on it.
   * **Historical Context** &mdash; Does this appear in other languages? If so, what does it look like in all of them? List that explicitly so we know the context.
-  * **Organization** &mdash; Organize the different options in a single place. For each option:
-      - Figure out any technical weaknesses. Parsing ambiguities? Code-texture problems?
-      - Get code examples from real code and create a gist demonstrating the proposed syntax.
+  * **Code Examples** &mdash; Get code examples from real code and create a gist demonstrating the proposed syntax.
+  * **Technical Problems** &mdash; Can it be parsed unambiguously?
 
 Once the organization is done, the issue is blocked until Evan can review things and do a user study on how things work in practice. Further comment and opinions on the existing cannot change the fundamentals of those ideas.
