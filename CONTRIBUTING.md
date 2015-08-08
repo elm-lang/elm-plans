@@ -19,9 +19,9 @@ If duplicates start to appear:
 
 #### Goals
 
-  - get feedback on ideas in a way that *efficiently* uses the time of the originator and commenters
-  - curate discussions so someone looking over them can quickly understand what is going on
-  - turn talk into concrete actions that can be handled by the community
+  - **Division of labor** &mdash; get feedback on ideas in a way that *efficiently* uses the time of the originator and commenters
+  - **Curation** &mdash; curate discussions so someone looking over them can quickly understand what is going on
+  - **Turn Talk to Action** &mdash; turn talk into concrete actions that can be handled by the community
 
 
 #### Guidelines
