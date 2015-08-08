@@ -8,7 +8,7 @@ The big thing here is "leave nothing to the imagination". The more specific you 
   * **Environment** &mdash; Describe the environment where you observed the issue. Which OS? Which browsers? Is a certain directory structure required?
   * **Curation** &mdash; As more is learned about the issue, a maintainer should update the title as necessary to make it easier to understand and find when it is just in a big issue list.
 
-If duplicates start to appear:
+#### Handling Duplicates
 
   * Close all the relevant user submitted issues
   * Open a new meta issue describing the problem in its purest most minimal form
@@ -27,7 +27,7 @@ For folks helping handle PRs:
 
   * **Details** &mdash; Sort out any style and performance issues.
   * **Blockers** &mdash; Document if there is any design questions that might block this. Key weaknesses? Better approach is possible? etc. Document these.
-  * **Curation** &mdash; If things are blocked close the PR and open an issue describing the state of affairs and linking the approach.
+  * **Curation** &mdash; If things are blocked close the PR and open an issue describing the state of affairs.
 
 
 ## Design Discussions
