@@ -36,7 +36,7 @@ For folks helping handle PRs:
 
   - **Division of labor** &mdash; get feedback on ideas in a way that *efficiently* uses the time of the originator and commenters
   - **Curation** &mdash; curate discussions so someone looking over them can quickly understand what is going on
-  - **Turn Talk to Action** &mdash; turn talk into concrete actions that can be handled by the community
+  - **Turn Talk to Action** &mdash; turn talk into concrete and productive actions that can be handled by specific individuals. The easier it is to distribute the workload the better!
 
 
 #### Basic Guidelines
