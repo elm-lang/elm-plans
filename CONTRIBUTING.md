@@ -80,7 +80,7 @@ If you *need* to talk about syntax, do it in an evidence based way:
 
   * **Opinions do not matter** &mdash; No one's opinion matters because everyone participating in these discussions is atypical by virtue of being here. What you think does not represent the present and future users of this language, so don't put too much weight on it.
   * **Organization** &mdash; Organize the different options in a single place. For each option:
-      - Figure out any technical weaknesses. Ambiguities? Visual issues? Texture problems?
+      - Figure out any technical weaknesses. Parsing ambiguities? Code-texture problems?
       - Get code examples from real code and create a gist demonstrating the proposed syntax.
 
 Once the organization is done, the issue is blocked until Evan can review things and do a user study on how things work in practice. Further comment and opinions on the existing cannot change the fundamentals of those ideas.
