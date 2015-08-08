@@ -19,8 +19,6 @@ The big thing here is "leave nothing to the imagination". The more specific you 
 
 #### Submitting
 
-A good submissions covers the following things:
-
   * **Title** &mdash; clearly describe the problem that is solved.
   * **Performance** &mdash; outline any performance concerns. Maybe there are none, maybe some overhead is introduced. Document that in the initial description. Provide benchmarks as necessary.
   * **Tests** &mdash; how did you test this code? How can we reproduce those tests easily? Can the tests be added into the repo easily? If so, add this as part of the PR.
@@ -28,7 +26,7 @@ A good submissions covers the following things:
 
 #### Commenting
 
-  * **Details** &mdash; Sort out any style and performance issues.
+  * **Details** &mdash; Sort out any style, performance, or correctness issues.
   * **Blockers** &mdash; Document if there is any design questions that might block this. Key weaknesses? Better approach is possible? etc. Document these.
   * **Curation** &mdash; If things are blocked close the PR and open an issue describing the state of affairs.
 
