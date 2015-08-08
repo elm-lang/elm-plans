@@ -15,6 +15,21 @@ If duplicates start to appear:
   * Link to all the duplicates from the meta issue so we can check their code snippets when we have a solution
 
 
+## Pull Requests
+
+For folks sumbitting PRs:
+
+  * **Title** &mdash; clearly describe the problem that is solved.
+  * **Performance** &mdash; outline any performance concerns. Maybe there are none, maybe some overhead is introduced. Document that in the initial description. Provide benchmarks as necessary.
+  * **Style** &mdash; make sure that you are in line with the appropriate style guides:  [Elm](http://elm-lang.org/docs/style-guide), [Haskell](https://gist.github.com/evancz/0a1f3717c92fe71702be), and [JS](http://google.github.io/styleguide/javascriptguide.xml). Make sure your style (comments, indentation, new lines) are in line with the file you are modifying.
+
+For folks helping handle PRs:
+
+  * **Details** &mdash; Sort out any style and performance issues.
+  * **Blockers** &mdash; Document if there is any design questions that might block this. Key weaknesses? Better approach is possible? etc. Document these.
+  * **Curation** &mdash; If things are blocked close the PR and open an issue describing the state of affairs and linking the approach.
+
+
 ## Design Discussions
 
 #### Goals
