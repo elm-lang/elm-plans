@@ -24,7 +24,7 @@ If duplicates start to appear:
   - **Turn Talk to Action** &mdash; turn talk into concrete actions that can be handled by the community
 
 
-#### Guidelines
+#### Basic Guidelines
 
 Issue comments are excellent at finding "this seems not so good" and "how about this idea?" and "we need to benchmark this first". That said, issue comments are *not* good at bringing these things all together in a coherent way. Without curation, good ideas can get lost and it becomes tricky to turn them into concrete and productive action.
 
@@ -34,9 +34,14 @@ So productive comments on a design discussion include things like:
   * Concerns about learning, efficiency, etc.
   * Ideas of how to do things in a nicer way
 
-As progress is made on these, the original description should be updated to the latest state of affairs.
-  
-Even with that curration, the danger is that things spirals out of control, leaving an issue with tons of comments that are difficult to follow. This is especially bad if someone comes back months later to an issue that is 50 comments long. When a discussion enters this death spiral, the next steps are:
+As progress is made on these, the original description should be updated to the latest state of affairs. OP is in charge of managing this curation.
+
+
+#### Advanced Curation
+
+What happens when there are two design discussions about the same general problem? What happens when one discussion has gotten out of control?
+ 
+Over time, every discussion will spiral out of control, leaving an issue with tons of comments that are difficult to follow. This is especially bad if someone comes back months later to an issue that is 50 comments long. When a discussion becomes unmanagable, the next steps are:
 
   1. Close the issue.
   2. Create a meta issue that:
