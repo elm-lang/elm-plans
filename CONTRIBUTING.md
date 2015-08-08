@@ -54,7 +54,7 @@ So productive comments on a design discussion include things like:
 As progress is made on these, the original description should be updated to the latest state of affairs. OP is in charge of managing this curation.
 
 
-#### Advanced Curation
+#### Curation
 
 What happens when there are two design discussions about the same general problem? What happens when one discussion has gotten out of control?
  
