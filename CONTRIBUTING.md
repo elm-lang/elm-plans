@@ -74,9 +74,11 @@ So the goal here is to break the problem down into coherent subparts and organiz
 
 #### About Syntax and Naming
 
-This is both easy to talk about and extremely difficult to decide on. It can be discussed endlessly. That cannot happen in a productive design discussions.
+This is the number one way to waste time and derail discussions. It is extraordinarily tempting to do, even if you know it will hurt the discussion. The problem is that it is also important to discuss.
 
-If you *need* to talk about syntax, do it in an evidence based way:
+If you see someone talking about this in a discussion *not* about syntax, do not engage. Sometimes to keep a discussion on track is to pretend parts of it did not happen. This way ideas can be shared without side-tracking everything.
+
+If you *need* to discuss syntax directly, do it in a separate issue and in an evidence based way:
 
   * **Opinions do not matter** &mdash; No one's opinion matters because everyone participating in these discussions is atypical by virtue of being here. What you think does not represent the present and future users of this language, so don't put too much weight on it.
   * **Historical Context** &mdash; Does this appear in other languages? If so, what does it look like in all of them? List that explicitly so we know the context.
