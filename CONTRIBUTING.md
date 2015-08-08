@@ -1,7 +1,16 @@
 
 ## Design Discussions
 
-Issue comments are excellent at finding "this seems not so good" and "how about this idea?" That said, issue comments are *not* good at bringing these things all together in a coherent way. Without curation, good ideas can get lost and it becomes tricky to turn them into concrete and productive action.
+#### Goals
+
+  - get feedback on ideas in a way that *efficiently* uses the time of the originator and commenters
+  - curate discussions so someone looking over them can quickly understand what is going on
+  - turn talk into concrete actions that can be handled by the community
+
+
+#### Guidelines
+
+Issue comments are excellent at finding "this seems not so good" and "how about this idea?" and "we need to benchmark this first". That said, issue comments are *not* good at bringing these things all together in a coherent way. Without curation, good ideas can get lost and it becomes tricky to turn them into concrete and productive action.
 
 So productive comments on a design discussion include things like:
 
