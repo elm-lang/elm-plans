@@ -1,3 +1,19 @@
+# Guidelines for Goal-Oriented Discussions
+
+Communities are built around some sort of shared experience. For this discussion, they fall roughly into these categories:
+
+![communities for what?](communities.png)
+
+Every community will fill some subset of these roles in varying degrees.
+
+  * On elm-discuss it is mostly about expression, partly for connection
+  * On twitter or /r/elm it is more about connections, but a lot about expression
+  * On GitHub it is primarily for action
+
+This document describes how to organize on GitHub to acheive collective action most effectively. Unlike discussions for expression, discussions for action can succeed or fail. Discussions can be efficient or innefficient. It's weird. I am calling these **goal-oriented discussions**. This document outlines how to engage in efficient and enjoyable goal-oriented discussiens for [bug reports](#bug-reports), [pull requests](#pull-requests), and [design discussions](#design-discussions).
+
+<br>
+
 ## Bug Reports
 
 The big thing here is "leave nothing to the imagination". The more specific you are, the more quickly we can help! So the basic rules are:
@@ -14,6 +30,7 @@ The big thing here is "leave nothing to the imagination". The more specific you 
   * Open a new meta issue describing the problem in its purest most minimal form
   * Link to all the duplicates from the meta issue so we can check their code snippets when we have a solution
 
+<br>
 
 ## Pull Requests
 
@@ -30,6 +47,7 @@ The big thing here is "leave nothing to the imagination". The more specific you 
   * **Blockers** &mdash; Document if there is any design questions that might block this. Key weaknesses? Better approach is possible? etc. Document these.
   * **Curation** &mdash; If things are blocked close the PR and open an issue describing the state of affairs.
 
+<br>
 
 ## Design Discussions
 
