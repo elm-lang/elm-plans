@@ -38,6 +38,7 @@ The big thing here is "leave nothing to the imagination". The more specific you 
   - **Division of labor** &mdash; get feedback on ideas in a way that *efficiently* uses the time of the originator and commenters
   - **Curation** &mdash; curate discussions so someone looking over them can quickly understand what is going on
   - **Turn Talk to Action** &mdash; turn talk into concrete and productive actions that can be handled by specific individuals. The easier it is to distribute the workload the better!
+  - **Avoid Syntax Wars** &mdash; make discussions more robust to derailing via syntax concerns
 
 
 #### Basic Guidelines
@@ -69,3 +70,17 @@ Over time, every discussion will spiral out of control, leaving an issue with to
       - close the issue describing the alternative, but continue discussion of specifics there
 
 So the goal here is to break the problem down into coherent subparts and organize things such that someone can quickly understand the problem and the state of affairs within that realm.
+
+
+#### About Syntax and Naming
+
+This is both easy to talk about and extremely difficult to decide on. It can be discussed endlessly. That cannot happen in a productive design discussions.
+
+If you *need* to talk about syntax, do it in an evidence based way:
+
+  * **Opinions do not matter** &mdash; No one's opinion matters because everyone participating in these discussions is atypical by virtue of being here. What you think does not represent the present and future users of this language, so don't put too much weight on it.
+  * **Organization** &mdash; Organize the different options in a single place. For each option:
+      - Figure out any technical weaknesses. Ambiguities? Visual issues? Texture problems?
+      - Get code examples from real code and create a gist demonstrating the proposed syntax.
+
+Once the organization is done, the issue is blocked until Evan can review things and do a user study on how things work in practice. Further comment and opinions on the existing cannot change the fundamentals of those ideas.
