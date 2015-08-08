@@ -3,7 +3,7 @@
 The big thing here is "leave nothing to the imagination". The more specific you are, the more quickly we can help! So the basic rules are:
 
   * **Title** &mdash; Provide a title that summarizes your problem as clearly and specifically as possible.
-  * **Repro** &mdash; Provide a minimal reproduction of the issue. Ideally this is a code snippet that fits in the issue and can be run in elm-lang.org/try
+  * **Minimal Reproduction** &mdash; Provide [a minimal reproduction](http://sscce.org/) of the issue. Ideally this is a code snippet that fits in the issue and can be run in elm-lang.org/try
   * **Error Message** &mdash; If there is an error message associated, include it in the issue. This way folks can assess the situation directly from the issue, no extra steps.
   * **Environment** &mdash; Describe the environment where you observed the issue. Which OS? Which browsers? Is a certain directory structure required?
   * **Curation** &mdash; As more is learned about the issue, a maintainer should update the title as necessary to make it easier to understand and find when it is just in a big issue list.
