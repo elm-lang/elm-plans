@@ -10,7 +10,7 @@ Every community will fill some subset of these roles in varying degrees.
   * On twitter or /r/elm it is more about connections, but a lot about expression
   * On GitHub it is primarily for action
 
-This document describes how to organize on GitHub to acheive collective action most effectively. Unlike discussions for expression, discussions for action can succeed or fail. Discussions can be efficient or innefficient. It's weird. I am calling these **goal-oriented discussions**. This document outlines how to engage in efficient and enjoyable goal-oriented discussiens for [bug reports](#bug-reports), [pull requests](#pull-requests), and [design discussions](#design-discussions).
+This document describes how to organize on GitHub to acheive collective action most effectively. Unlike discussions for expression, discussions for action can succeed or fail. Discussions can be efficient or innefficient. It's weird. I am calling these **goal-oriented discussions**. This document outlines how to engage in efficient and enjoyable goal-oriented discussions for [bug reports](#bug-reports), [pull requests](#pull-requests), and [design discussions](#design-discussions).
 
 <br>
 
