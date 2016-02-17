@@ -1,9 +1,6 @@
 # DEPRECATED
 
-This repository was made as a central home for plans for the Elm language,
-but is no longer in use.
-
-The repository is maintained to store the history of discussions.
+The repository is maintained to store the history of discussions. It is not in use otherwise.
 
 ## Collaborate
 
